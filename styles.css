@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    box-sizing: border-box;   
+
+}
+body{
+    background-image: url("https://wallpaperaccess.com/full/395434.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: yellow;
+}
+
+.submit{
+    position: relative;
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    font-weight: 600;
+    border-radius: 40px;
+    
+}
+input {
+    width: 250px;
+    height: 50px;
+  }
+.curr{
+    position: relative;
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    font-weight: 600;
+    border-radius: 40px;
+    
+}
